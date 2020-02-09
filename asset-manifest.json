@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/index.html/static/css/main.6a934dfc.chunk.css",
-    "main.js": "/index.html/static/js/main.02ed6216.chunk.js",
-    "main.js.map": "/index.html/static/js/main.02ed6216.chunk.js.map",
-    "runtime-main.js": "/index.html/static/js/runtime-main.a5967d1e.js",
-    "runtime-main.js.map": "/index.html/static/js/runtime-main.a5967d1e.js.map",
-    "static/js/2.e381bac7.chunk.js": "/index.html/static/js/2.e381bac7.chunk.js",
-    "static/js/2.e381bac7.chunk.js.map": "/index.html/static/js/2.e381bac7.chunk.js.map",
-    "index.html": "/index.html/index.html",
-    "precache-manifest.c4bd740061c30a8af9777918e39412b9.js": "/index.html/precache-manifest.c4bd740061c30a8af9777918e39412b9.js",
-    "service-worker.js": "/index.html/service-worker.js",
-    "static/css/main.6a934dfc.chunk.css.map": "/index.html/static/css/main.6a934dfc.chunk.css.map",
-    "static/js/2.e381bac7.chunk.js.LICENSE.txt": "/index.html/static/js/2.e381bac7.chunk.js.LICENSE.txt"
+    "main.css": "/iCounterApp-React_Redux/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/iCounterApp-React_Redux/static/js/main.02ed6216.chunk.js",
+    "main.js.map": "/iCounterApp-React_Redux/static/js/main.02ed6216.chunk.js.map",
+    "runtime-main.js": "/iCounterApp-React_Redux/static/js/runtime-main.9c4612e0.js",
+    "runtime-main.js.map": "/iCounterApp-React_Redux/static/js/runtime-main.9c4612e0.js.map",
+    "static/js/2.e381bac7.chunk.js": "/iCounterApp-React_Redux/static/js/2.e381bac7.chunk.js",
+    "static/js/2.e381bac7.chunk.js.map": "/iCounterApp-React_Redux/static/js/2.e381bac7.chunk.js.map",
+    "index.html": "/iCounterApp-React_Redux/index.html",
+    "precache-manifest.6a974b7d13a064fa9dca9f369a1eac80.js": "/iCounterApp-React_Redux/precache-manifest.6a974b7d13a064fa9dca9f369a1eac80.js",
+    "service-worker.js": "/iCounterApp-React_Redux/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/iCounterApp-React_Redux/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.e381bac7.chunk.js.LICENSE.txt": "/iCounterApp-React_Redux/static/js/2.e381bac7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5967d1e.js",
+    "static/js/runtime-main.9c4612e0.js",
     "static/js/2.e381bac7.chunk.js",
     "static/css/main.6a934dfc.chunk.css",
     "static/js/main.02ed6216.chunk.js"
